@@ -1,3 +1,8 @@
+-- To keep the original data safe ; i created copy of csv files to be used in the analysis
+-- original: Account_Info, Customer_Info
+-- created copy to be used in this anlysis: Account_Info_2, Customer_Info_2
+
+
 -- DATABSE SETUP & TESTING
 
 -- Start the database
