@@ -1,2 +1,2 @@
 # Bank_Churn_Analysis
-Analysis of Bank Churn data using sql and python and visualisation Tableau for visualisation.
+Analysis of "Bank Customer Churn Data" using sql and python and Tableau for visualisation.
