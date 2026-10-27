@@ -1,4 +1,4 @@
--- To keep the original data safe ; i created copy of csv files to be used in the analysis
+-- To keep the original data safe ; Created copy of csv files to be used in the analysis they will be stored in the server(local)
 -- original: Account_Info, Customer_Info
 -- created copy to be used in this anlysis: Account_Info_2, Customer_Info_2
 
